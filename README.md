@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hello everyone 👋... My name is Rizqi Reza Ardiansyah from Indonesia. I'm Software Developer And Data Science. </h1>
+<h1 align="center">Hello everyone 👋 </h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Rizqi Reza Ardiansyah from Tangerang, Indonesia <br><br>- 🔭 I’m working as PT Padepokan 79<br>- 📚 I'm currently learning in Enigma Camp <br>- ⚡ In my free time I GYM</p>
 
 ###
 
