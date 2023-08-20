@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/intellij/intellij-original.svg" height="40" alt="Intelij Idea logo"  />
    <img width="12" />
-  <img src="" height="40" alt="vim logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
 ###
