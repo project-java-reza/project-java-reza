@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello everyone 👋... My name is Rizqi Reza Ardiansyah from Indonesia. I'm Software Developer And Data Science. </h1>
 
 ###
 
